@@ -16,5 +16,7 @@ public class ClasseCaminhoes extends ClasseAutomotores {
 
     public void setCargaSuportadaAt(float cargaSuportadaAt) {
         this.cargaSuportadaAt = cargaSuportadaAt;
+        
+        null
     }
 }
